@@ -95,11 +95,3 @@ python deep_crawler.py --mode process --results-file results.json
 2. **Results Storage**: Crawled URLs are saved to a JSON file with metadata
 3. **Content Processing**: Pages are processed into markdown files using the 'crwl' command
 4. **Organization**: Output files are organized in folders based on the domain name
-
-## License
-
-[Specify your license here]
-
-## Contributors
-
-[Your name/organization]
